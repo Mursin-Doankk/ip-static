@@ -4,12 +4,11 @@
 
 
 
-- What is Static-Ip Automation Version System  ?
-> This is Static ip generator permanent it generates tcp ip and port.
-> Many times you just want to spy permanent with spynote or spynote with this ip you can.
-> If you find yourself in that situation then this Static-ip Automation is the perfect tool for you!
-> You can connect ip with 1 sec. This awesome script works with every operator/carrier.
-> this tool made by @samay825 
+- Ini adalah generator ip Statis permanen yang menghasilkan tcp ip dan port. 
+> Banyak kali Anda hanya ingin memata-matai permanen dengan spynote atau spynote dengan ip ini Anda bisa. 
+> Jika Anda menemukan diri Anda dalam situasi itu maka Otomasi Statis-ip ini adalah alat yang sempurna untuk Anda! Anda dapat menghubungkan ip dengan 1 detik. 
+> Skrip yang luar biasa ini bekerja dengan setiap operator/operator. 
+> alat ini dibuat oleh @samay825 
 
 <br>
 
@@ -44,7 +43,7 @@
  
 > `apt update && apt upgrade`
  
-> `git clone https://github.com/samay825/Static-IP-Automation`
+> `git clone https://github.com/Mursin-Doankk/ip-static.git`
  
 > `cd Static-IP-Automation`  
 
